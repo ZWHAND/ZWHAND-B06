@@ -1,0 +1,13 @@
+﻿  USBCANFD.cpp
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(67,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(298,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“DEVICE_HANDLE”
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(353,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CHANNEL_HANDLE”
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(388,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(411,74): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(512,1): warning C4267: “=”: 从“size_t”转换到“BYTE”，可能丢失数据
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(600,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(648,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(649,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(689,42): warning C4018: “>”: 有符号/无符号不匹配
+D:\Desktop\API文件\ZLGCANFD\USBCANFD\USBCANFD\USBCANFD.cpp(1343,35): warning C4018: “<”: 有符号/无符号不匹配
+  USBCANFD.vcxproj -> D:\Desktop\API文件\ZLGCANFD\USBCANFD\Debug\USBCANFD.exe
