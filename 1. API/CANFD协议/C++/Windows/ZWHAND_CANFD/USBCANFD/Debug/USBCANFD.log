@@ -1,0 +1,31 @@
+﻿  USBCANFD.cpp
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(67,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(323,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“DEVICE_HANDLE”
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(378,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CHANNEL_HANDLE”
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(413,35): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(436,74): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(537,1): warning C4267: “=”: 从“size_t”转换到“BYTE”，可能丢失数据
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(625,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(672,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(728,35): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(729,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(769,42): warning C4018: “>”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1257,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1710,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1715,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1720,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1753,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1763,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1774,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1784,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1792,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1797,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1802,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1807,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1815,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1820,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1828,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1839,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1844,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\USBCANFD\USBCANFD.cpp(1864,23): warning C4018: “<”: 有符号/无符号不匹配
+  USBCANFD.vcxproj -> E:\linuxfile\1. API\CANFD协议\C++(需更新)\Windows\ZWHAND_CANFD\Debug\USBCANFD.exe
